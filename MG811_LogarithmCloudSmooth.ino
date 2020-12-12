@@ -119,7 +119,7 @@ void loop() {
   Serial.print( "V" );
 
   // Applying correction based on humidity
-  volts = volts + 0.059 * log(dht5.readTemperature())- 0.234;
+  volts = volts + 0.059 * log(dht5.readHumidity())- 0.234;
   Serial.print( "Corrected Voltage:" );
   Serial.print(volts, 3);
   Serial.print( "V" );
