@@ -13,3 +13,8 @@ https://github.com/smart-tech-benin/MG811
 https://github.com/solvek/CO2Sensor
 
 Special thanks to all of their author for contributing to the best understanding of this sensor
+
+See also:
+[Calibration notes from CO2 Meter](https://www.co2meter.com/blogs/news/7512282-co2-sensor-calibration-what-you-need-to-know)
+[Sandbox Electronics' MG-811 CO2 Sensor Module](http://sandboxelectronics.com/?p=147)
+[Vernier's post on human respiration](http://www.vernier.com/innovate/human-respiration/)
